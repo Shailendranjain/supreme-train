@@ -1,0 +1,181 @@
+body {
+    background: linear-gradient(to left, hsl(250, 100%, 50%),
+     hsl(170, 100%, 50%));
+}
+body {
+    background: linear-gradient(to left, hsl(250, 100%, 50%),
+     hsl(170, 100%, 50%));
+}
+body {
+    background: linear-gradient(to left, hsl(250, 100%, 50%),
+     hsl(170, 100%, 50%));
+}
+
+
+.one{
+    background: linear-gradient(to left, hsl(160, 100%, 50%),
+     hsl(60, 100%, 50%));
+    display: flex;
+    justify-content: space-between ;
+   
+    border-radius:  20px;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+.two{
+    background: linear-gradient(to left, hsl(34, 85%, 57%),
+     hsl(27, 42%, 70%));;
+    display: flex;
+    justify-content: space-between ;
+    border-radius:  20px;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+.three{
+    background-color:cornsilk;
+    /* display: flex;
+    justify-content: space-between ; */
+    border-radius:  20px;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+
+.fourth{
+    background: linear-gradient(to left, hsl(15, 100%, 50%),
+     hsl(60, 100%, 50%));;
+    display: flex;
+    justify-content: space-evenly ; 
+    border: 2px solid rgb(124, 33, 33);
+    border-radius: 50px;
+    padding: 30px;
+    
+
+}
+
+.tenth{
+    background: linear-gradient(to left, hsl(15, 100%, 50%),
+     hsl(60, 100%, 50%));;
+    display: flex;
+    justify-content: space-evenly ; 
+    border: 2px solid rgb(124, 33, 33);
+    border-radius: 50px;
+    padding: 30px;
+    
+
+}
+
+
+.fifth{
+    background: linear-gradient(to left, hsl(323, 33%, 50%),
+     hsl(323, 27%, 74%));;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    padding: 30px; 
+    align-content: center;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+}
+
+.seventh{
+    background: linear-gradient(to left, hsl(323, 33%, 50%),
+     hsl(323, 27%, 74%));;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    padding: 30px; 
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+}
+
+.eleventh{
+    background: linear-gradient(to left, hsl(323, 33%, 50%),
+     hsl(323, 27%, 74%));;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    padding: 30px; 
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+.thirteen{
+    background: linear-gradient(to left, hsl(323, 33%, 50%),
+     hsl(323, 27%, 74%));;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    padding: 30px; 
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+
+
+.sixth{
+    /* background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    padding: 30px; 
+    background: linear-gradient(to left, hsl(34, 57%, 69%),
+     hsl(94, 77%, 76%));;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+.eight{
+    /*background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    padding: 30px; 
+    border-radius:  20px;
+    background: linear-gradient(to left, hsl(34, 57%, 69%),
+     hsl(94, 77%, 76%));;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+.ninth{
+    /* background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    padding: 30px; 
+    border-radius:  20px;
+    background: linear-gradient(to left, hsl(34, 57%, 69%),
+     hsl(94, 77%, 76%));;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+.twelve{
+    /* background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    padding: 30px; 
+    border-radius:  20px;
+    background: linear-gradient(to left, hsl(34, 57%, 69%),
+     hsl(94, 77%, 76%));;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid rgb(124, 33, 33);
+
+}
+
+
+
